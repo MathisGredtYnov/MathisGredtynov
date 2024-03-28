@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Gredt Mathis</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">I've had a passion for computers and video games since I was a kid.</h3>
 
 - 🔭 I’m currently working on [Create Nuclear](https://github.com/valentinlamine/Create_Nuclear)
 
