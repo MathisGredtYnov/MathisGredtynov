@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **mathis.gredt@gmail.com**
 
-- 📄 Know about my experiences [I'm a computer science student in my second year, and later I'd like to work in cybersecurity.](I'm a computer science student in my second year, and later I'd like to work in cybersecurity.)
+- 📄 Know about my experiences I'm a computer science student in my second year, and later I'd like to work in cybersecurity.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
