@@ -3,9 +3,9 @@
 
 - 🔭 I’m currently working on [Create Nuclear](https://github.com/valentinlamine/Create_Nuclear)
 
-- 👯 I’m currently working on [a ChessGame](https://github.com/NoaYnov/Projet_Dev) 
+- 👯 I created [a ChessGame](https://github.com/NoaYnov/Projet_Dev) 
 
-- 🌱 I’m currently learning **PHP, Unity, java**
+- 🌱 I learned **PHP, Unity, java**
 
 - 👨‍💻 All of my projects are available at [https://mathisgredtynov.github.io/PortFolio/](https://mathisgredtynov.github.io/PortFolio/)
 
