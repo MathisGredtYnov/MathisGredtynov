@@ -7,7 +7,7 @@
 
 - 🌱 I learned **PHP, Unity, java**
 
-- 👨‍💻 All of my projects are available at [https://mathisgredtynov.github.io/PortFolio/](https://mathisgredtynov.github.io/PortFolio/)
+- 👨‍💻 All of my projects are available at [https://mathisgredtynov.github.io/PortFolio/](https://mathisgredt.github.io/PortFolio/)
 
 - 📫 How to reach me **mathis.gredt@gmail.com**
 
